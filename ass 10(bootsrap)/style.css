@@ -1,0 +1,22 @@
+.homeContainer{
+    height: 100vh;
+    background-image: url(img/hero\ img.jpg);
+}
+#services span{
+/* border-radius: ; */
+border: solid 3px #09c;
+}
+.counter{
+    height: 50vh;
+    background-image: url(img/post-3.jpg);
+   .innerr{
+    background-color: rgba(0, 153, 204, 0.556);
+   }
+}
+
+.contact{
+    background-image: url(img/post-3.jpg);
+    .layout{
+        background-color: rgba(0, 153, 204, 0.536);
+    }
+}
